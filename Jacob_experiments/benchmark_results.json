@@ -39,6 +39,14 @@
     }
   },
   "multiclass": {
+    "Logistic Regression": {
+      "acc": 0.5652,
+      "macro_recall": 0.3718
+    },
+    "Decision Tree": {
+      "acc": 0.4348,
+      "macro_recall": 0.2724
+    },
     "Random Forest": {
       "acc": 0.5652,
       "macro_recall": 0.272
